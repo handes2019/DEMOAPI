@@ -1,0 +1,1160 @@
+记录时间：2020-01-23 16:23:50,869 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 16:27:09,149 线程ID:[6] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 16:27:09,854 线程ID:[6] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 16:27:09
+
+
+记录时间：2020-01-23 16:27:10,002 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 16:32:39,417 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 16:32:40,040 线程ID:[9] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 16:32:40
+
+
+记录时间：2020-01-23 16:32:40,174 线程ID:[13] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 16:32:45,242 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 16:42:50,267 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 16:43:53,660 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 16:48:44,091 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 16:50:49,998 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 16:51:09,018 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 16:51:09,669 线程ID:[8] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 16:51:09
+
+
+记录时间：2020-01-23 16:51:09,805 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 16:52:33,306 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 16:52:33,931 线程ID:[7] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 16:52:33
+
+
+记录时间：2020-01-23 16:52:34,060 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 16:52:36,057 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 17:11:33,970 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 17:11:34,543 线程ID:[7] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 17:11:34
+
+
+记录时间：2020-01-23 17:11:34,673 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 17:11:39,787 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 17:22:56,636 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 17:22:57,308 线程ID:[8] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 17:22:57
+
+
+记录时间：2020-01-23 17:22:57,469 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 17:23:06,490 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 17:25:20,327 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 17:25:20,887 线程ID:[7] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 17:25:20
+
+
+记录时间：2020-01-23 17:25:21,014 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 17:25:24,136 线程ID:[6] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 17:26:45,740 线程ID:[6] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(:0)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 17:27:55,973 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 17:27:56,577 线程ID:[7] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 17:27:56
+
+
+记录时间：2020-01-23 17:28:09,653 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 17:28:18,092 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 17:30:14,102 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 17:30:14,746 线程ID:[8] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 17:30:14
+
+
+记录时间：2020-01-23 17:30:17,225 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 17:30:20,714 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 17:31:50,591 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 17:31:51,293 线程ID:[7] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 17:31:51
+
+
+记录时间：2020-01-23 17:31:54,516 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 17:31:58,884 线程ID:[6] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 17:34:11,802 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 17:34:12,435 线程ID:[7] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 17:34:12
+
+
+记录时间：2020-01-23 17:34:12,569 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 17:34:13,960 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 17:39:01,117 线程ID:[11] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 17:39:01,774 线程ID:[11] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 17:39:01
+
+
+记录时间：2020-01-23 17:39:01,897 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 17:39:03,716 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 17:44:40,834 线程ID:[13] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 17:44:41,481 线程ID:[13] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 17:44:41
+
+
+记录时间：2020-01-23 17:44:41,606 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 17:44:43,344 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 17:45:51,156 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 17:45:51,794 线程ID:[7] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 17:45:51
+
+
+记录时间：2020-01-23 17:45:51,959 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 17:45:53,825 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 18:12:16,601 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 18:12:17,305 线程ID:[8] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 18:12:17
+
+
+记录时间：2020-01-23 18:12:17,456 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:12:20,609 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 18:12:37,686 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：INSERT INTO `StuInfo`  
+           (`id`,`name`,`stuno`,`gender`,`address`,`phone`)
+     VALUES
+           (@id,@name,@stuno,@gender,@address,@phone) ;
+{"@id":0,"@name":"小米","@stuno":"123456","@gender":"男","@address":"123456","@phone":"1234"}
+
+
+记录时间：2020-01-23 18:12:38,663 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:13:58,163 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:15:39,280 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 18:15:39,930 线程ID:[8] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 18:15:39
+
+
+记录时间：2020-01-23 18:15:40,064 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:15:43,454 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":1}
+
+
+记录时间：2020-01-23 18:17:45,971 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 18:17:46,636 线程ID:[7] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 18:17:46
+
+
+记录时间：2020-01-23 18:17:46,793 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:17:49,371 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":1}
+
+
+记录时间：2020-01-23 18:23:34,501 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 18:23:35,079 线程ID:[7] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 18:23:35
+
+
+记录时间：2020-01-23 18:23:35,217 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:23:46,992 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":1}
+
+
+记录时间：2020-01-23 18:23:54,431 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：UPDATE `StuInfo`  SET
+           `name`=@name,`stuno`=@stuno,`gender`=@gender,`address`=@address,`phone`=@phone  WHERE `id`=@id
+{"@id":1,"@name":"小米1","@stuno":"123456","@gender":"男","@address":"123456","@phone":"1234"}
+
+
+记录时间：2020-01-23 18:23:55,455 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:28:59,342 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 18:28:59,913 线程ID:[9] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 18:28:59
+
+
+记录时间：2020-01-23 18:29:00,051 线程ID:[11] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:29:02,250 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  WHERE ( `id` = @id0 ) 
+{"@id0":0}
+
+
+记录时间：2020-01-23 18:29:11,449 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：INSERT INTO `StuInfo`  
+           (`name`,`stuno`,`gender`,`address`,`phone`)
+     VALUES
+           (@name,@stuno,@gender,@address,@phone) ;SELECT LAST_INSERT_ID();
+{"@name":"小米2","@stuno":"123456","@gender":"女","@address":"123456","@phone":"1234"}
+
+
+记录时间：2020-01-23 18:29:14,188 线程ID:[11] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:29:16,502 线程ID:[14] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：DELETE FROM `StuInfo` WHERE `id` IN ('2') 
+{}
+
+
+记录时间：2020-01-23 18:29:16,531 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:41:23,204 线程ID:[6] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 18:41:23,777 线程ID:[6] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 18:41:23
+
+
+记录时间：2020-01-23 18:41:23,916 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:44:26,168 线程ID:[15] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 18:44:26,835 线程ID:[15] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 18:44:26
+
+
+记录时间：2020-01-23 18:44:26,976 线程ID:[11] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:45:20,807 线程ID:[13] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 18:45:20,814 线程ID:[13] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 18:45:20
+
+
+记录时间：2020-01-23 18:46:43,505 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:49:40,538 线程ID:[14] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 18:49:41,185 线程ID:[14] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 18:49:41
+
+
+记录时间：2020-01-23 18:49:41,344 线程ID:[10] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:53:13,738 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 18:54:50,898 线程ID:[8] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 19:07:52,894 线程ID:[6] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`username`,`pwd`,`role` FROM `UserInfo`  WHERE (( `username` = @username0 ) AND ( `pwd` = @pwd1 )) 
+{"@username0":"1","@pwd1":"1"}
+
+
+记录时间：2020-01-23 19:07:53,503 线程ID:[6] 日志级别：INFO  记录类：DEMOWEAPI.Controllers.HomeController
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOWEAPI.Controllers.HomeController.Login(D:\Code\DEMOAPI\DEMOAPI\Controllers\HomeController.cs:59)
+消息描述：(null)
+异常：
+消息：登录成功：2020-01-23 19:07:53
+
+
+记录时间：2020-01-23 19:07:53,638 线程ID:[9] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
+记录时间：2020-01-23 19:09:32,091 线程ID:[7] 日志级别：INFO  记录类：DEMOAPI.Models.SqlHelper
+操作者ID：(null) 操作类型：(null)
+当前机器名:{log4net:Identity=, log4net:UserName=DESKTOP-POA7G1U\hande, log4net:HostName=DESKTOP-POA7G1U}
+当前机器名及登录用户：DESKTOP-POA7G1U\hande 
+记录位置：DEMOAPI.Models.SqlHelper+<>c__DisplayClass1_0.<GetInstance>b__0(D:\Code\DEMOAPI\DEMOAPI\Models\SqlHelper.cs:45)
+消息描述：(null)
+异常：
+消息：SQL语句：SELECT `id`,`name`,`stuno`,`gender`,`address`,`phone` FROM `StuInfo`  
+{}
+
+
